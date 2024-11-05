@@ -17,6 +17,8 @@ python3 xai_eval.py --model resnet18 --training_type from_scratch --closest_clas
 ```
 For more information about input parameters, refer to the utils/config_params.py file.
 
+<img src="car.png" alt="Citation Image" width="200"/>
+
 > **Citation:**  
 > If you use this code for your research, please cite our ICIP24 paper:
 > 
